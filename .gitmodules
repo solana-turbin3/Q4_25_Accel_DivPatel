@@ -1,0 +1,3 @@
+[submodule "modules/whitelist-transfer-hook"]
+	path = modules/whitelist-transfer-hook
+	url = https://github.com/Dev050x/whitelist-transfer-hook.git
