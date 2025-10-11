@@ -4,3 +4,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/Dev050x/whitelist-transfer-hook.git
+[submodule "escrow-litesvm"]
+	path = escrow-litesvm
+	url = https://github.com/Dev050x/escrow_litesvm.git
