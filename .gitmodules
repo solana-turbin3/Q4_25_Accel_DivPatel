@@ -7,3 +7,6 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = https://github.com/Dev050x/escrow_litesvm.git
+[submodule "MagicBlock-ER-VRF"]
+	path = MagicBlock-ER-VRF
+	url = https://github.com/Dev050x/MagicBlock-ER-VRF.git
