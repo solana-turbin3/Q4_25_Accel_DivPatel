@@ -13,3 +13,6 @@
 [submodule "vault_and_transfer_hook_token_extension"]
 	path = vault_and_transfer_hook_token_extension
 	url = https://github.com/Dev050x/vault_and_transfer_hook_token_extension.git
+[submodule "JudgeGPT"]
+	path = JudgeGPT
+	url = https://github.com/Dev050x/JudgeGPT.git
