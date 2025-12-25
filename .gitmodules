@@ -16,3 +16,6 @@
 [submodule "JudgeGPT"]
 	path = JudgeGPT
 	url = https://github.com/Dev050x/JudgeGPT.git
+[submodule "Pinocchio-Escrow"]
+	path = Pinocchio-Escrow
+	url = https://github.com/Dev050x/Pinocchio-Escrow.git
