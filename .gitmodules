@@ -19,3 +19,6 @@
 [submodule "Pinocchio-Escrow"]
 	path = Pinocchio-Escrow
 	url = https://github.com/Dev050x/Pinocchio-Escrow.git
+[submodule "Pinocchio-Fundraiser"]
+	path = Pinocchio-Fundraiser
+	url = git@github.com:Dev050x/Pinocchio-Fundraiser.git
